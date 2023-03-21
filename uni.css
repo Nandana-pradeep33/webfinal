@@ -345,7 +345,27 @@ margin-right: 9px;
 
 }
 
+.footn{
+width: 100%;
+text-align: center;
+padding:30px 0px;
 
+}
+.footn h4{
+ margin-bottom: 25px;
+margin-top: 20px;
+font-weight: 600;
+font-size: 25px;
+}
+.iconn{
+  padding:18px;
+}
+.iconn .fa{
+ margin:0 13px;
+ cursor: pointer;
+ padding: 20px;
+ padding: 18px 0;
+}
 
 
 #about{
