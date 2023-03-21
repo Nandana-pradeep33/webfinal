@@ -260,7 +260,7 @@ margin-right: 9px;
 
 }
 .course-col3{
-  height: 250px;
+  height: 260px;
   color: #fff;
   flex-basis: 49%;
   background: #383c3c;
@@ -314,7 +314,34 @@ margin-right: 9px;
     justify-content: space-between;
     flex-direction: column;
     padding: 20px 20px;
+    margin-top:5%;
   }
+ .adm{
+     min-width: 85%;
+    right: 12%;
+ }
+ .course1{
+     margin-top:15%;
+    margin-bottom: 15%;
+    font-size:20px ;
+  }
+  .course-col3{
+    font-size: 20px;
+    margin-bottom: 5%;
+  }
+  .course-col2{
+    margin-bottom: 5%;
+  }
+  .course-col{
+    margin-bottom: 5%;
+  
+  }
+  .foot{
+  font-weight: lighter;
+  font-size: 15px;
+ }
+  
+  
 
 }
 
@@ -413,7 +440,7 @@ position: relative;
   min-height:400px;
 }
 .fin{
-  margin-top: 3%;
+  margin-top: 1%;
  min-height: 450px;
   background-color:rgb(238, 238, 238);
   font-size: 50px;
@@ -460,16 +487,20 @@ position: relative;
   transition: 1s;
 }
 .foot{
- height: 30px;
+ height: 60px;
  text-align: center;
- padding: 60px;
+  top:20%;
+ left: 20%;
+ padding: 50px;
  font-size: 25px;
  font-weight: bold;
 }
 .icons{
-  margin-bottom: 2%;
+ margin-bottom: 5%;
   text-align: center;
   align-items: center;
+  font-size: 18px;
+  font-weight: lighter;
 
 }
 body{
